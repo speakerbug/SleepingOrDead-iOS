@@ -1,0 +1,16 @@
+PODS:
+  - FXBlurView (1.6.3)
+  - MZTimerLabel (0.5.2)
+  - ZLSwipeableView (0.0.7)
+
+DEPENDENCIES:
+  - FXBlurView
+  - MZTimerLabel
+  - ZLSwipeableView
+
+SPEC CHECKSUMS:
+  FXBlurView: c6d23f3d35af2c6282296a2930f61c6e2c788d01
+  MZTimerLabel: 1bce6b93ec9f017fffad7ea7ee2bc721b53b64ee
+  ZLSwipeableView: acf50179911c5f1e6150e0a279561344fbcda839
+
+COCOAPODS: 0.36.0.beta.2
